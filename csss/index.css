@@ -1,0 +1,54 @@
+body{
+	position:fixed;
+	width:100%;
+	
+}
+.left{
+	position:relative;
+float:left;
+padding-left:10%;}
+.right{
+	position:relative;
+float:right;
+padding-right:20%;
+top:-100%;
+}
+.pic{
+  width:60%;
+}
+#button1{
+width:200px;
+height: 200px;
+
+}
+#button2{
+width:200px;
+height: 200px;
+}
+#button3{
+width:200px;
+height: 200px;
+}
+#button4{
+width:200px;
+height: 200px;
+
+}
+.down{
+	padding-top:10%;
+
+}
+#bul{
+	position: relative;
+	float: left;
+	top:40%;
+	left: 5%;
+}
+#bur{
+	position: relative;
+	float: right;
+	top:40%;
+	right: 5%;
+
+}
+

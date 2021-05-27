@@ -1,0 +1,46 @@
+.container-fluid{
+    position: relative;
+    margin-left: 0%;
+    margin-right: 0%;
+  padding-right: 0px; 
+  padding-left: 0px;}
+  .pic{
+  width:100%;
+}
+ul.portfolio-images li {
+  display: inline-block;
+  padding: 0;
+  margin-top:5%;
+}
+ul{
+	  margin-top:40%;
+
+}
+#bul{
+	position: relative;
+	top:40%;
+	margin-left: 10%;
+}
+#bur{
+	position: relative;
+	top:40%;
+	margin-right: 10%;
+}
+#button1{
+width:200px;
+height: 200px;
+
+}
+#button2{
+width:200px;
+height: 200px;
+}
+#button3{
+width:200px;
+height: 200px;
+}
+#button4{
+width:200px;
+height: 200px;
+
+}
